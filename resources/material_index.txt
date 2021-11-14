@@ -1,0 +1,182 @@
+1   pig
+2   grass
+3   stone
+4   composter top
+5   water still
+6   flower pot
+7   observer side
+8   yellow wool
+9   oak trapdoor
+10  oak planks
+11  barrel top
+12  redstone dust dot on
+13  andesite
+14  packed ice
+15  smoker front
+16  jungle planks
+17  composter bottom
+18  light blue wool
+19  chicken
+20  polished diorite
+21  polished andesite
+22  dispenser front vertical
+23  iron bars
+24  composter side
+25  dandelion
+26  banner base3
+27  enchanting table top
+28  brewing stand base
+29  grass block top
+30  repeater on
+31  white stained glass
+32  piston inner
+33  red nether bricks
+34  redstone lamp
+35  command block side
+36  birch door top
+37  lapis block
+38  rail corner
+39  light gray wool
+40  glass pane top
+41  spruce planks
+42  stripped acacia log
+43  white wool
+44  cauldron top
+45  donkey kong
+46  gray shulker box
+47  glass
+48  black stained glass pane top
+49  pumpkin top
+50  blast furnace side
+51  white concrete
+52  furnace top
+53  barrel side
+54  iron door top
+55  dark prismarine
+56  soul sand
+57  fern
+58  oak log
+59  lantern
+60  black wool
+61  acacia trapdoor
+62  sea lantern
+63  light blue stained glass pane top
+64  hopper outside
+65  hopper top
+66  scaffolding side
+67  lectern base
+68  scaffolding top
+69  acacia planks
+70  anvil top
+71  redstone dust dot
+72  anvil
+73  smooth stone
+74  lectern front
+75  gravel
+76  sandstone top
+77  dispenser front
+78  obsidian
+79  cyan stained glass
+80  light gray stained glass pane top
+81  smoker side
+82  cornflower
+83  smoker bottom
+84  redstone torch
+85  sandstone bottom
+86  rail
+87  furnace side
+88  observer front
+89  comparator on
+90  command block front
+91  dirt
+92  sandstone
+93  gray concrete
+94  carved pumpkin
+95  tall grass top
+96  dark oak door top
+97  stripped acacia log top
+98  mossy cobblestone
+99  repeater
+100 furnace front
+101 redstone torch off
+102 powered rail on
+103 cartography table top
+104 bookshelf
+105 quartz block bottom
+106 sea pickle
+107 quartz pillar
+108 piston bottom
+109 black shulker box
+110 oak leaves
+111 lever
+112 black concrete
+113 cyan stained glass pane top
+114 scaffolding bottom
+115 grass block side
+116 netherrack
+117 nether bricks
+118 signs birch
+119 birch door bottom
+120 oak log top
+121 command block back
+122 item frame
+123 blast furnace front
+124 sand
+125 redstone dust line0
+126 smoker top
+127 torch
+128 bomb
+129 lectern top
+130 light gray stained glass
+131 iron block
+132 barrel bottom
+133 dark oak door bottom
+134 cobblestone
+135 water flow
+136 diorite
+137 enchanting table side
+138 light gray shulker box
+139 dark oak trapdoor
+140 nether portal
+141 redstone dust line0 on
+142 quartz block side
+143 brewing stand
+144 gold block
+145 banner base14
+146 light blue stained glass
+147 birch planks
+148 hopper inside
+149 granite
+150 observer top
+151 cauldron inner
+152 dropper front
+153 kebab
+154 coal block
+155 brown shulker box
+156 quartz block top
+157 spruce door bottom
+158 observer back
+159 dark oak planks
+160 spruce trapdoor
+161 cauldron side
+162 piston top
+163 signs oak
+164 azure bluet
+165 piston side
+166 cartography table side3
+167 tall grass bottom
+168 pumpkin side
+169 redstone block
+170 lime wool
+171 damaged anvil top
+172 gray wool
+173 oxeye daisy
+174 cartography table side1
+175 cartography table side2
+176 black stained glass
+177 spruce door top
+178 stone bricks
+179 lectern sides
+180 white stained glass pane top
+181 ice
+182 iron door bottom
