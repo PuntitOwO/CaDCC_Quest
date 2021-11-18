@@ -8,6 +8,40 @@
 
 config_version=4
 
+_global_script_classes=[ {
+"base": "Node",
+"class": "JSONBeautifier",
+"language": "GDScript",
+"path": "res://addons/json_beautifier/json_beautifier.gd"
+}, {
+"base": "Node",
+"class": "Persistence",
+"language": "GDScript",
+"path": "res://addons/PersistenceNode/persistence_node.gd"
+}, {
+"base": "Node",
+"class": "QuizBase",
+"language": "GDScript",
+"path": "res://addons/QuizNodes/QuizBase.gd"
+}, {
+"base": "QuizBase",
+"class": "QuizDynamic",
+"language": "GDScript",
+"path": "res://addons/QuizNodes/QuizDynamic.gd"
+}, {
+"base": "QuizBase",
+"class": "QuizMultipleChoice",
+"language": "GDScript",
+"path": "res://addons/QuizNodes/QuizMultipleChoice.gd"
+} ]
+_global_script_class_icons={
+"JSONBeautifier": "",
+"Persistence": "res://addons/PersistenceNode/icon.png",
+"QuizBase": "",
+"QuizDynamic": "res://addons/QuizNodes/QuizDynamic.png",
+"QuizMultipleChoice": "res://addons/QuizNodes/QuizMultipleChoice.png"
+}
+
 [application]
 
 config/name="Cadcc Game"
@@ -19,6 +53,10 @@ config/icon="res://icon.png"
 window/size/width=1920
 window/size/height=1080
 window/size/resizable=false
+
+[editor_plugins]
+
+enabled=PoolStringArray( "res://addons/PersistenceNode/plugin.cfg", "res://addons/QuizNodes/plugin.cfg" )
 
 [importer_defaults]
 
@@ -47,6 +85,11 @@ texture={
 [input]
 
 tui_click={
+"deadzone": 0.5,
+"events": [ Object(InputEventMouseButton,"resource_local_to_scene":false,"resource_name":"","device":0,"alt":false,"shift":false,"control":false,"meta":false,"command":false,"button_mask":0,"position":Vector2( 0, 0 ),"global_position":Vector2( 0, 0 ),"factor":1.0,"button_index":1,"pressed":false,"doubleclick":false,"script":null)
+ ]
+}
+map_click={
 "deadzone": 0.5,
 "events": [ Object(InputEventMouseButton,"resource_local_to_scene":false,"resource_name":"","device":0,"alt":false,"shift":false,"control":false,"meta":false,"command":false,"button_mask":0,"position":Vector2( 0, 0 ),"global_position":Vector2( 0, 0 ),"factor":1.0,"button_index":1,"pressed":false,"doubleclick":false,"script":null)
  ]
